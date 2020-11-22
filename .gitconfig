@@ -1,0 +1,6 @@
+[user]
+	email = lais2279@hotmail.com
+	name = Isabel Neatbeans
+[filesystem "Oracle Corporation|13.0.2|-565701297"]
+	timestampResolution = 4914 microseconds
+	minRacyThreshold = 0 nanoseconds
